@@ -1,0 +1,12 @@
+# Git
+
+# Initialize our repo 
+
+cd into directory
+git init 
+
+File statuses:
+* untracked
+* unstaged
+* staged
+* committed
