@@ -1,0 +1,20 @@
+HTTP is always working in the dark.
+It's stateless and memoryless. 
+
+3xx errors imply that the site is not somewhere else, or something like that. 
+
+If we are building our own server, you set up the page for every kind of error. 
+
+From the client, you get a request with:
+# Request code.
+# Header.
+# Body
+
+From the server, you get a response with:
+# Response code.
+# Header.
+# Body
+
+SINATRA:
+
+You HAVE to put ALL your views in the view folder. Must. 
